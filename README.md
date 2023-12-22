@@ -46,6 +46,7 @@ Here's how you can do that.\
 
 ```
 ## Redis database and Service Discovery
+redis-server --port 6379
 cd databases
 python logic.py
 
