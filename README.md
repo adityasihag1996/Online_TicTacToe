@@ -45,14 +45,11 @@ You will need to spin up 4 major components:-
 Here's how you can do that.\
 
 ```
-## Redis database
+## Redis database and Service Discovery
 cd databases
 python logic.py
 
 cd ../
-
-## Service Discovery
-python service.py
 
 ## Game Server
 cd game_service
