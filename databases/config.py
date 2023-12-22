@@ -1,0 +1,5 @@
+MAX_GAMES_PER_SERVER = 100
+REDIS_HOST = "localhost"
+REDIS_PORT = 6379
+
+GAME_SERVER_IP_LIST = ["localhost:7001"]
